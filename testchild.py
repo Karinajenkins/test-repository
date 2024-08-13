@@ -1,2 +1,2 @@
 hi
-x=1 
+print("hola")
